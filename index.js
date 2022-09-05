@@ -30,8 +30,8 @@ var map = new AMap.Map('amap', {
 var marker = new AMap.Marker({
     position:[120.387583, 32.972239]//位置
 })
-map.add(marker);//添加到地图
 
+map.add(marker);//添加到地图
 
 
 // wx.config({
